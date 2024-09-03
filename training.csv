@@ -1,0 +1,224 @@
+source,review_description,rating,review_date,vader_neg,vader_neu,vader_pos,vader_compound,roberta_neg,roberta_neu,roberta_pos,roberta_comp,roberta_comp',Sentiment_read,category
+Google Play,Chill on the suggested posts and make a discovery tab,4,7/6/23,0,1,0,0,0.022908416,0.840721846,0.13636972,0.113461301,0,1,3
+Google Play,"I can't post pictures, it's keeps crashing when I choose pictures and press done",1,7/7/23,0,1,0,0,0.871913016,0.117503226,0.010583726,-0.861329317,-1,-1,4
+Google Play,Awesome,5,7/8/23,0,0,1,0.6249,0.00833755,0.083822265,0.907840252,0.899502695,1,1,1
+Google Play,Am i the only person who is giving review here ?,3,7/6/23,0,0.769,0.231,0.34,0.232839882,0.733593464,0.033566676,-0.199273199,0,0,0
+App Store,"It desperately needs the DM feature, I don’t want to switch between the apps to chat. Everything else feels great about the app",5,7/6/23,0.096,0.704,0.2,0.4215,0.268034786,0.347670794,0.384294391,0.116259605,0,1,5
+Google Play,Murge this threads in instagram like reel button...... It seems like we are using two same instagram accounts in different apps,2,7/8/23,0,0.792,0.208,0.6124,0.28905642,0.634765327,0.076178245,-0.212878168,0,-1,5
+Google Play,I want my data to be deleted from thread,4,7/7/23,0,0.843,0.157,0.0772,0.935475469,0.061796639,0.002727852,-0.932747602,-1,-1,6
+Google Play,bluds app felloff so hard,1,7/25/23,0.318,0.682,0,-0.2183,0.93485558,0.059978276,0.005166053,-0.929689527,-1,-1,0
+Google Play,Its a very good app,5,7/18/23,0,0.484,0.516,0.4927,0.002403862,0.016691182,0.980904937,0.978501081,1,1,0
+Google Play,Better than Twitter �,5,7/8/23,0,0.508,0.492,0.4404,0.074319541,0.291869968,0.63381052,0.559490979,1,1,0
+Google Play,Aburridoooo,1,7/23/23,0,1,0,0,0.257087797,0.613910735,0.129001454,-0.128086343,0,-1,1
+Google Play,aplikasi pndo.,1,7/8/23,0,1,0,0,0.21279341,0.643014193,0.144192383,-0.068601027,0,, 
+Google Play,It's nxa to use,5,7/16/23,0,1,0,0,0.131074309,0.780951679,0.087974064,-0.043100245,0,1,0
+Google Play,The app is so lit �� I love the app so much thanks mark,5,7/6/23,0,0.59,0.41,0.8244,0.002385149,0.005254549,0.992360294,0.989975154,1,1,0
+Google Play,Not soo good,1,7/20/23,0.546,0.454,0,-0.3412,0.939143896,0.054872047,0.005984119,-0.933159769,-1,-1,0
+Google Play,"There's an annoying glitch that makes this app almost useless, whenever I change tab, such as from activity to feed or profile, their UI overlays on top of each other which makes reading anything is Impossible. I had to minimize and reopen the app in order to make the glitch gone, but only temporarily because the same issue will reappear if I try to change tab again. Please fix this!",1,7/9/23,0.051,0.884,0.065,0.259,0.934458196,0.056502841,0.00903888,-0.925419331,-1,-1,1
+Google Play,"Rapi + enteng aplikasinya, good job",5,7/6/23,0,0.58,0.42,0.4404,0.004652468,0.0891205,0.906226993,0.901574552,1,1,0
+Google Play,Good app,5,7/7/23,0,0.256,0.744,0.4404,0.007448298,0.064862818,0.927688837,0.920240521,1,1,0
+App Store,"Horrid layout, hard to find accounts you actually care about, half the stuff in your timeline are random brain rotting crap from accounts you don’t even follow, no hashtags, horrible search feature, no desktop website, collects a lot of personal data, etc.
+
+This app is pretty trash and doesn’t have a future.",1,7/10/23,0.241,0.658,0.1,-0.7906,0.976475179,0.020855296,0.002669571,-0.973805606,-1,-1,1
+App Store,"Horrid layout, hard to find accounts you actually care about, half the stuff in your timeline are random brain rotting crap from accounts you don’t even follow, no hashtags, horrible search feature, no desktop website, collects a lot of personal data, etc.
+
+This app is pretty trash and doesn’t have a future.",1,7/10/23,0.241,0.658,0.1,-0.7906,0.976475179,0.020855296,0.002669571,-0.973805606,-1,-1,5
+Google Play,Hate it,1,7/12/23,0.787,0.213,0,-0.5719,0.918789744,0.069290087,0.011920211,-0.906869531,-1,-1,0
+Google Play,Very nice app ��,5,7/6/23,0,0.492,0.508,0.4754,0.002314388,0.021457888,0.97622776,0.973913372,1,1,0
+Google Play,"Best social media App so far,..to make make it all in one...can you modify the app to be able to have the LIVE option like facebook and also to be able to contact the owner of a certain account either through video ,audio calls or be able to text and send images or video to the owner of the account ( end to end encripted ) and i if one could create a group or community ( just like messanger or whatsaap ) for sure this app will be �.",4,7/9/23,0,0.831,0.169,0.9287,0.004213718,0.13064307,0.865143239,0.860929549,1,1,5
+Google Play,Good,5,7/8/23,0,0,1,0.4404,0.060793459,0.329428077,0.609778464,0.548985004,1,1,0
+Google Play,Awesome! Thanks Mark.,5,7/7/23,0,0.121,0.879,0.807,0.001580768,0.021042181,0.977376997,0.975796223,1,1,0
+Google Play,Go ahead Mark �,5,7/8/23,0,1,0,0,0.033755478,0.818202972,0.148041576,0.114286095,0,1,0
+App Store,"Please add a way to filter your feed to just people you follow. I will never use this app again if the only thing I ever see is recommended posts instead of creators I care about. Besides that it’s a great alternative to a certain dumpster fire of an app, I just hope they’ll add more functionality!",4,7/6/23,0.064,0.67,0.266,0.9134,0.433794051,0.329985827,0.236220151,-0.1975739,0,0,5
+App Store,"Please add a way to filter your feed to just people you follow. I will never use this app again if the only thing I ever see is recommended posts instead of creators I care about. Besides that it’s a great alternative to a certain dumpster fire of an app, I just hope they’ll add more functionality!",4,7/6/23,0.064,0.67,0.266,0.9134,0.433794051,0.329985827,0.236220151,-0.1975739,0,0,3
+Google Play,Can't save a photo,2,7/17/23,0.568,0.432,0,-0.3875,0.583938301,0.383090347,0.032971408,-0.550966918,-1,-1,4
+Google Play,I love it,5,7/6/23,0,0.192,0.808,0.6369,0.008278283,0.026217727,0.96550405,0.95722574,1,1,0
+Google Play,Copycat,1,7/15/23,0,1,0,0,0.282776624,0.598303378,0.118919946,-0.163856685,0,-1,13
+Google Play,Better than musk app,5,7/6/23,0,0.508,0.492,0.4404,0.054074325,0.386455715,0.559469938,0.505395591,1,1,0
+App Store,"It’s cool and postive so far but there’s bugs, like random phantom black symbols appearing and my follower count has not updated in over a day",3,7/9/23,0,0.824,0.176,0.5994,0.493630469,0.370980263,0.135389283,-0.3582412,0,0,12
+App Store,"It’s cool and postive so far but there’s bugs, like random phantom black symbols appearing and my follower count has not updated in over a day",3,7/9/23,0,0.824,0.176,0.5994,0.493630469,0.370980263,0.135389283,-0.3582412,0,0,3
+Google Play,Wow,5,7/7/23,0,0,1,0.5859,0.024311343,0.3279396,0.647749066,0.623437703,1,1,0
+Google Play,The app is excellent �,4,7/8/23,0,0.519,0.481,0.5719,0.002059716,0.014981965,0.982958376,0.980898678,1,1,0
+Google Play,"The app is simple, but why can't you save pictures. That's what was annoying about Instagram.",4,7/8/23,0.333,0.667,0,-0.7901,0.881924212,0.10448806,0.01358779,-0.868336439,-1,1,4
+Google Play,I think this app is Twitter opponet,3,7/7/23,0,1,0,0,0.686859906,0.286375612,0.026764518,-0.660095394,-1,0,13
+Google Play,Not bed,5,7/11/23,0,1,0,0,0.255461544,0.656213343,0.088325091,-0.167136461,0,1,0
+Google Play,Awful.,1,7/7/23,1,0,0,-0.4588,0.916526139,0.074310951,0.009162927,-0.907363236,-1,-1,0
+Google Play,Gandu app but iam fan of Modi,5,7/8/23,0,0.67,0.33,0.4497,0.016197726,0.455668598,0.52813369,0.511935949,1,1,0
+Google Play,"Cool interface. Nice idea. However, I'm unable to browse different locations in my phone to add a photo or video to my post. This is significant issue and a turn off",3,7/7/23,0,0.79,0.21,0.7096,0.656242132,0.255694598,0.088063329,-0.568178773,-1,0,4
+Google Play,"Cool interface. Nice idea. However, I'm unable to browse different locations in my phone to add a photo or video to my post. This is significant issue and a turn off",3,7/7/23,0,0.79,0.21,0.7096,0.656242132,0.255694598,0.088063329,-0.568178773,-1,0,5
+Google Play,Time of end @twittee,5,7/6/23,0,1,0,0,0.156972721,0.767107844,0.075919457,-0.081053264,0,1,13
+Google Play,Good I like this app,5,7/9/23,0,0.27,0.73,0.6597,0.002497416,0.016495721,0.981006801,0.978509367,1,1,0
+Google Play,This app is a data dalal And a clone�,1,7/9/23 12:15,0,1,0,0,0.238824278,0.690054655,0.071121082,-0.167703196,0,-1,13
+Google Play,This is app is so cool.,5,7/7/23,0,0.626,0.374,0.4572,0.001611499,0.013210312,0.985178173,0.983566701,1,1,0
+Google Play,"T&C's are outrageous! My gender, sexual orientation, and my browsing history?",1,7/12/23,0.248,0.752,0,-0.5093,0.942842245,0.054457895,0.002699903,-0.940142334,-1,-1,6
+App Store,Better then Twitter tbh,5,7/6/23,0,0.508,0.492,0.4404,0.03497472,0.33034575,0.634679556,0.599704862,1,1,0
+Google Play,Bye bye Twitter �,5,7/7/23,0,1,0,0,0.454343259,0.477045536,0.06861122,-0.385732055,0,1,0
+Google Play,Baap to baap Hota Hai kyu Musk Jiii,5,7/7/23,0,1,0,0,0.079248428,0.84730202,0.073449552,-0.005798876,0,,
+Google Play,Absolutely amazing apps thread very useful batter then Twitter ☺️,5,7/12/23,0,0.523,0.477,0.8067,0.002992361,0.021477209,0.975530446,0.972538114,1,1,0
+Google Play,Amazing experience,5,7/6/23,0,0.208,0.792,0.5859,0.006586664,0.068778247,0.924635112,0.918048441,1,1,0
+Google Play,My account is error,1,7/6/23,0.474,0.526,0,-0.4019,0.842103481,0.14844884,0.00944768,-0.832655787,-1,-1,2
+Google Play,This app buffering,1,7/8/23,0,1,0,0,0.606088698,0.354867876,0.039043441,-0.567045271,-1,-1,9
+Google Play,This app buffering,1,7/8/23,0,1,0,0,0.606088698,0.354867876,0.039043441,-0.567045271,-1,-1,4
+Google Play,"is there a button or feature that let only the accounts that I follow would appear on my feed/wall/page? if not, I hope the devs can add them",3,7/10/23,0.091,0.909,0,-0.3412,0.028248765,0.675498545,0.296252668,0.268003911,0,0,5
+Google Play,Better App,5,7/6/23,0,0.256,0.744,0.4404,0.057655074,0.315594196,0.626750767,0.569095671,1,1,0
+Google Play,It's nice,5,7/8/23,0,0.263,0.737,0.4215,0.004359934,0.044858206,0.950781882,0.946421921,1,1,0
+Google Play,Please only show threads from people a user followed.,5,7/6/23,0,0.753,0.247,0.3182,0.142427146,0.758758187,0.098814659,-0.043612488,0,0,5
+Google Play,GOOD APP,5,7/7/23,0,0.256,0.744,0.4404,0.025081104,0.137929484,0.836989403,0.811908305,1,1,0
+Google Play,"Overall, the app is good. Its performance is great for it being initial release. A few suggestions: -Ability to only see followed accounts on timeline -Trending page -Cover photo -Dark mode Pros: -My system font works on this app, while it doesn't work on other similar apps.",4,7/10/23,0,0.822,0.178,0.8519,0.003089762,0.022559907,0.974350333,0.971260548,1,1,6
+Google Play,"Error - ""please wait before trying again"" Unable to log in",1,7/6/23,0.208,0.615,0.177,-0.1027,0.811312258,0.177392721,0.011294951,-0.800017297,-1,-1,2
+Google Play,Terrible App.. Forget Any Competition To Twitter..,1,7/6/23,0.5,0.5,0,-0.6124,0.914356947,0.072436824,0.013206183,-0.901150763,-1,-1,0
+Google Play,To login it demands instagram account. It is conditional. If you have not an Instagram account you can't login in threads .,1,7/8/23,0,1,0,0,0.375180364,0.581020117,0.043799538,-0.331380814,0,-1,2
+Google Play,o wow threads,5,7/13/23,0,0.208,0.792,0.5859,0.050110035,0.414171696,0.535718262,0.48560822,0,1,0
+Google Play,In my profile coming glitch coming,5,7/7/23,0,1,0,0,0.031274013,0.866641521,0.102084532,0.070810519,0,0,1
+Google Play,What will this bring for the masses?,5,7/6/23,0,1,0,0,0.163000181,0.794541717,0.042458076,-0.120542109,0,1,0
+Google Play,I love it,5,7/7/23,0,0.192,0.808,0.6369,0.008278283,0.026217727,0.96550405,0.95722574,1,1,0
+Google Play,So basically Twitter lite��,1,7/6/23,0,1,0,0,0.201997817,0.72292155,0.075080663,-0.126917154,0,-1,13
+Google Play,I think it's linked with a an app called *'Sure Fixed Matches'*,5,7/9/23,0,1,0,0,0.031505667,0.848687649,0.119806588,0.088300921,0,0,0
+Google Play,I think it's a good app,4,7/6/23,0,0.508,0.492,0.4404,0.002106293,0.023973523,0.973920166,0.971813858,1,1,0
+Google Play,Super Instagram,4,7/6/23,0,0.204,0.796,0.5994,0.017979538,0.344210714,0.637809753,0.619830191,1,1,0
+Google Play,Tweeter is the best,1,7/19/23,0,0.417,0.583,0.6369,0.003392413,0.026160302,0.970447242,0.967054844,1,-1,13
+App Store,New updates will roll this week and take it over Twitter IMO. Just a couple key features away from that happening,5,7/12/23,0,1,0,0,0.012783726,0.511633456,0.475582808,0.462799072,0,1,13
+Google Play,التطبيق دمار شامل يصحبي,5,7/7/23,0,1,0,0,0.190991759,0.762722552,0.046285696,-0.14470607,0,,
+Google Play,Its good app,5,7/13/23,0,0.408,0.592,0.4404,0.004635479,0.038849451,0.956515014,0.951879561,1,1,0
+Google Play,Amazing,5,7/7/23,0,0,1,0.5859,0.022607831,0.230594754,0.746797383,0.724189579,1,1,0
+Google Play,Officially Nth Review �,5,7/6/23,0,1,0,0,0.107206114,0.860723853,0.032069959,-0.075136155,0,0,0
+Google Play,So Good,5,7/11/23,0,0.238,0.762,0.4927,0.004411223,0.042320114,0.953268647,0.948857427,1,1,0
+Google Play,Please you need to add DM and some Joint Group or gathering club for internation with other user to promote peace and love,5,7/13/23,0,0.601,0.399,0.9118,0.010555699,0.405960053,0.583484232,0.572928548,1,1,5
+Google Play,fix your app asap. it glitches so bad itll cause epilepsy. i also dm'd this on insta to threadsapp. so you better answer that to see how bad it glitches(acc: dem0s.privv502),3,7/6/23,0.229,0.689,0.081,-0.7785,0.846164823,0.134708464,0.019126724,-0.827038109,-1,-1,3
+Google Play,fix your app asap. it glitches so bad itll cause epilepsy. i also dm'd this on insta to threadsapp. so you better answer that to see how bad it glitches(acc: dem0s.privv502),3,7/6/23,0.229,0.689,0.081,-0.7785,0.846164823,0.134708464,0.019126724,-0.827038109,-1,-1,5
+Google Play,Op,5,7/7/23,0,1,0,0,0.22120975,0.598361254,0.180428997,-0.040780753,0,,
+Google Play,Anti free speech app,1,7/14/23,0.303,0.263,0.434,0.25,0.696243048,0.287678987,0.016077913,-0.680165112,-1,-1,6
+Google Play,Nice....,1,7/7/23,0,1,0,0,0.067845546,0.368357509,0.563796997,0.495951444,0,1,0
+Google Play,Not bad.. still work in progress,3,7/6/23,0,0.641,0.359,0.4215,0.01658701,0.151448682,0.831964314,0.815377295,1,0,0
+Google Play,Excellent app,5,7/7/23,0,0.213,0.787,0.5719,0.011216747,0.106459714,0.882323503,0.871106744,1,1,0
+Google Play,Once I open the app shows overlapped content consistently Giving us a dizziness and irritation. 2. Unable to download the media like photos making it very difficult to use this if we want the media.,2,7/13/23,0.151,0.695,0.154,-0.2247,0.889810264,0.101307631,0.0088821,-0.880928159,-1,-1,3
+Google Play,Once I open the app shows overlapped content consistently Giving us a dizziness and irritation. 2. Unable to download the media like photos making it very difficult to use this if we want the media.,2,7/13/23,0.151,0.695,0.154,-0.2247,0.889810264,0.101307631,0.0088821,-0.880928159,-1,-1,9
+Google Play,Once I open the app shows overlapped content consistently Giving us a dizziness and irritation. 2. Unable to download the media like photos making it very difficult to use this if we want the media.,2,7/13/23,0.151,0.695,0.154,-0.2247,0.889810264,0.101307631,0.0088821,-0.880928159,-1,-1,4
+App Store,I like this app much more than Twitter.,5,7/8/23,0,0.706,0.294,0.3612,0.005307481,0.03056946,0.964123011,0.958815515,1,1,13
+Google Play,Adain fitur DM kek wkwk,5,7/6/23,0,1,0,0,0.141653046,0.789126873,0.069220036,-0.07243301,0,,
+Google Play,it's Very Good App like Instagram make early account to take your Name,5,7/6/23,0,0.649,0.351,0.7146,0.00362971,0.060949706,0.935420632,0.931790948,1,1,2
+Google Play,it's Very Good App like Instagram make early account to take your Name,5,7/6/23,0,0.649,0.351,0.7146,0.00362971,0.060949706,0.935420632,0.931790948,1,1,7
+Google Play,Awesome experience,5,7/6/23,0,0.196,0.804,0.6249,0.005223017,0.042221047,0.952555954,0.947332919,1,1,0
+Google Play,Best app ever,5,7/6/23,0,0.323,0.677,0.6369,0.00412346,0.021268839,0.974607646,0.970484197,1,1,0
+Google Play,I cant share my post on Instagram,3,7/6/23,0.274,0.726,0,-0.2235,0.708512843,0.274287969,0.017199162,-0.691313684,-1,0,5
+Google Play,Amazing experience so far.,5,7/7/23,0,0.441,0.559,0.5859,0.002816514,0.031580206,0.965603292,0.962786794,1,1,0
+Google Play,Clean UI,5,7/6/23,0,0.27,0.73,0.4019,0.059960056,0.586965919,0.353074014,0.293113947,0,1,1
+Google Play,What's not to love,5,7/6/23,0.529,0.471,0,-0.5216,0.173407093,0.506690919,0.319901973,0.14649488,0,1,0
+Google Play,Thank you so much Instagram...�,5,7/6/23,0,0.615,0.385,0.3612,0.001147457,0.009871501,0.988981009,0.98783356,1,1,0
+Google Play,"It's a great start, however, needs some tweaking. We are all used to Twitter and what it does, so I understand this app can't do EXACTLY what it does, because it will simply be Twitter again ��‍♀️. So hopefully this app will come with BETTER ideas for people to continue using.",3,7/8/23,0,0.811,0.189,0.894,0.105269261,0.28385523,0.610875547,0.505606294,1,0,13
+Google Play,Not interested this app � Twitter is best �,1,7/23/23,0.168,0.52,0.312,0.4482,0.652975321,0.283109725,0.063914977,-0.589060366,-1,-1,0
+Google Play,Nice,5,7/24/23,0,0,1,0.4215,0.066038214,0.354452848,0.57950896,0.513470769,1,1,0
+Google Play,Awesome Application �,5,7/7/23,0,0.328,0.672,0.6249,0.003957141,0.057876851,0.938166022,0.93420887,1,1,0
+Google Play,Good ����� application,5,7/6/23,0,0.408,0.592,0.4404,0.029106919,0.517732739,0.453160405,0.42405349,0,1,0
+Google Play,Wasn't able to open the app after download,1,7/14/23,0,1,0,0,0.76079911,0.223405436,0.015795536,-0.745003581,-1,-1,2
+Google Play,This apps feela like broken phone you cannot see clearly because all the post the artist is like shaking .,1,7/9/23,0.271,0.537,0.192,-0.2635,0.859091341,0.128340676,0.012567916,-0.846523404,-1,-1,9
+Google Play,I just don't like it sorry �,1,7/14/23,0.288,0.546,0.167,-0.2235,0.974095881,0.023362309,0.002541813,-0.971554041,-1,-1,0
+Google Play,WOW,5,7/14/23,0,0,1,0.5859,0.210655957,0.531117439,0.258226573,0.047570616,0,1,0
+Google Play,"Hate this app , Twitter is better than threads. Always Elon is better than Zuckerberg .",1,7/16/23,0.18,0.537,0.283,0.2732,0.548174739,0.3256405,0.126184747,-0.421989977,0,-1,0
+Google Play,I like it,5,7/9/23,0,0.286,0.714,0.3612,0.010962408,0.110262439,0.87877512,0.867812693,1,1,0
+Google Play,Good application,5,7/7/23,0,0.256,0.744,0.4404,0.013454672,0.160993293,0.825552046,0.812097371,1,1,0
+Google Play,This aap is interesting and this aap is really good �,4,7/8/23,0,0.604,0.396,0.7089,0.001234984,0.009830444,0.988934577,0.987699568,1,1,0
+Google Play,I am facing an issue with this application. Whenever I am trying to reply or quote a video the application shuts off by itself and that video disappears. It's happening from the day one that I had downloaded threads. Please fix that problem. Thank you.,1,7/19/23,0.109,0.789,0.102,-0.0772,0.795520842,0.179265857,0.025213242,-0.7703076,-1,-1,9
+Google Play,Twitter ki copy,1,7/6/23,0,1,0,0,0.192365229,0.75525707,0.052377731,-0.139987499,0,-1,13
+Google Play,Elon mask whats happened�,5,7/6/23,0,1,0,0,0.192716911,0.773868203,0.033414878,-0.159302026,0,1,0
+Google Play,The feed is very irrelevant.,1,7/13/23,0,1,0,0,0.940604687,0.055536725,0.003858585,-0.93674612,-1,-1,3
+Google Play,"Good Start, but intermittent bugs. Today, as I was following people back, it would periodically start flashing this box that said, ""Something went wrong, try again,"" that box would vanish & then reappear like a strobe with no way to exit, other than force stopping the app. Then, once restarted, all the people I'd just followed would just show as new requests, even though I'd just followed them? Frustrating! These glitches all started since the update yesterday",3,7/13/23,0.151,0.789,0.06,-0.8313,0.823404372,0.15309003,0.023505569,-0.799898803,-1,0,3
+Google Play,So amazing,5,7/11/23,0,0.196,0.804,0.624,0.004004429,0.037380751,0.958614767,0.954610348,1,1,0
+Google Play,Nice �,5,7/7/23,0,0.263,0.737,0.4215,0.026350182,0.323480755,0.650169015,0.623818815,1,1,0
+Google Play,Very Good,5,7/7/23,0,0.238,0.762,0.4927,0.007290397,0.073774464,0.91893518,0.911644757,1,1,0
+Google Play,Elon Musk Chacha Zindabad,1,7/21/23,0,1,0,0,0.038441129,0.88684535,0.074713506,0.036272377,0,-1,0
+Google Play,Nice New social media app. I'm really loving this.,5,7/11/23,0,0.5,0.5,0.7902,0.001706229,0.005845455,0.99244833,0.990742087,1,1,0
+Google Play,"It has minimal UI and a typical user flow. There is a bug, though. When I try to upload images in the following thread, it shuts. I tried removing from recents, reinstalled, but stayed the same.",3,7/11/23,0,1,0,0,0.616210103,0.343549281,0.040240638,-0.575969458,-1,0,1
+Google Play,"It has minimal UI and a typical user flow. There is a bug, though. When I try to upload images in the following thread, it shuts. I tried removing from recents, reinstalled, but stayed the same.",3,7/11/23,0,1,0,0,0.616210103,0.343549281,0.040240638,-0.575969458,-1,0,4
+Google Play,"So far , I'm enjoying this new meta threads �",4,7/7/23,0,0.686,0.314,0.5667,0.001202575,0.014061243,0.984736145,0.983533561,1,1,0
+Google Play,"The badge keeps coming back on IG profile, even after you select to hide it several times.",1,7/9/23,0.096,0.904,0,-0.1779,0.163369894,0.72445941,0.112170756,-0.051199138,0,-1,8
+Google Play,App is very good.It is blasting the bug and not even allowing me to open my lover page and what not.I cant see the excellent app like this till now.Itbuas everything.I am uninstalling everything now for this app.�,1,7/11/23,0.068,0.79,0.142,0.5109,0.130258054,0.16782257,0.701919436,0.571661353,1,-1,3
+Google Play,Hello meta thank you,4,7/7/23,0,0.545,0.455,0.3612,0.003600655,0.202289686,0.794109643,0.790508986,1,1,0
+App Store,"Threads seems pretty tight lipped about what they are doing in the background. Updates are just ‘bug fixes and performance enhancements’ which seems a little off for a brand new app. If you do some digging you can maybe find a blog post telling you what is new, but no clue how to change anything as the settings are nonexistent. I’m stepping away from the app for a while until the team figures out where they are going with it and when they become more transparent I may return.",1,7/19/23,0.032,0.944,0.024,-0.1779,0.514731586,0.414949059,0.07031934,-0.444412231,0,-1,3
+Google Play,Trash app,1,7/7/23,0,1,0,0,0.936744332,0.056395501,0.006860181,-0.929884136,-1,-1,0
+Google Play,"Initially good, waiting for more improvements in the user interface options",4,7/6/23,0,0.621,0.379,0.6697,0.008926417,0.107426561,0.883647025,0.874720633,1,1,1
+Google Play,"Initially good, waiting for more improvements in the user interface options",4,7/6/23,0,0.621,0.379,0.6697,0.008926417,0.107426561,0.883647025,0.874720633,1,1,13
+Google Play,İt's another level,5,7/6/23,0,1,0,0,0.240922108,0.649850965,0.109226897,-0.131695211,0,1,0
+Google Play,Trash. It's a tracking app. Do not download,1,7/10/23,0,1,0,0,0.92146945,0.07166829,0.006862338,-0.914607108,-1,-1,6
+Google Play,keren,5,7/16/23,0,1,0,0,0.21588695,0.584760368,0.199352637,-0.016534314,0,,
+Google Play,Need Gif Support and More interactive UI,4,7/6/23,0,0.69,0.31,0.4019,0.032969262,0.67130667,0.295724034,0.262754768,0,0,1
+Google Play,Need Gif Support and More interactive UI,4,7/6/23,0,0.69,0.31,0.4019,0.032969262,0.67130667,0.295724034,0.262754768,0,0,4
+Google Play,"I got it bc of Zayn, seems to be okay so far",5,7/6/23,0,0.84,0.16,0.2263,0.002575266,0.0982951,0.899129629,0.896554351,1,1,0
+Google Play,�,5,7/11/23,0,1,0,0,0.156638622,0.780079126,0.063282289,-0.093356334,0,,
+Google Play,Under ���� It is copy write,1,7/21/23,0,1,0,0,0.29177469,0.662385821,0.045839544,-0.245935142,0,-1,6
+App Store,"When installing the application, I hid it, but now I want it to be visible in my instagram profile that I am registered in Threads. 
+Add this parameter and you will have a high score!
+Thank you.",1,7/17/23,0.033,0.829,0.138,0.5848,0.013941046,0.194350109,0.791708827,0.777767777,1,0,5
+Google Play,"জুকার মামু, থ্রেডে DM দেও নাই ক্যা? ডিএম না থাকলে আমার হ্যাপী, লিপি, পপি, ববি, পলি, ডলি মলি আর কলিদের সাথে প্যাম পিরিতি কেমনে করুম?",3,7/8/23,0,1,0,0,0.253275156,0.711319566,0.035405263,-0.217869893,0,,
+Google Play,Nice,5,7/6/23,0,0,1,0.4215,0.066038214,0.354452848,0.57950896,0.513470769,1,1,0
+Google Play,"when I try to post some pictures, it suddenly lags and remove me from the app",3,7/6/23,0.152,0.848,0,-0.3612,0.779541075,0.207530215,0.01292866,-0.766612411,-1,0,4
+Google Play,Why it's not opening for the access it's not running also if you want to delete this it not happening,1,7/7/23,0,0.936,0.064,0.0772,0.752785087,0.237614065,0.009600806,-0.743184268,-1,-1,2
+Google Play,Too much censorship,1,7/13/23,0,1,0,0,0.83772558,0.155613601,0.006660767,-0.83106482,-1,-1,6
+Google Play,"You're better than this, Meta!",1,7/6/23,0,0.556,0.444,0.4926,0.128573135,0.286764294,0.584662616,0.456089497,0,-1,0
+Google Play,My app crashes when I try to post pictures,3,7/7/23,0,1,0,0,0.85560143,0.131403387,0.012995203,-0.842606246,-1,-1,4
+Google Play,Op,5,7/14/23,0,1,0,0,0.22120975,0.598361254,0.180428997,-0.040780753,0,,
+Google Play,I think it's not the important one�,1,7/10/23,0.242,0.758,0,-0.1511,0.640547574,0.336348444,0.023103911,-0.617443681,-1,-1,13
+Google Play,Pls add Facebook login,1,7/9/23,0,0.698,0.302,0.0772,0.075808555,0.786059976,0.138131529,0.062322974,0,0,2
+Google Play,Pls add Facebook login,1,7/9/23,0,0.698,0.302,0.0772,0.075808555,0.786059976,0.138131529,0.062322974,0,0,5
+Google Play,Cheap copy of twitter,4,7/7/23,0,1,0,0,0.465262234,0.476597875,0.058139883,-0.407122344,0,-1,13
+Google Play,Badhiya nice,5,7/6/23,0,0.263,0.737,0.4215,0.007915967,0.184143499,0.807940483,0.800024509,1,1,0
+Google Play,"Literally twitter copy and paste. Pathetic zuck, don't expect anything better from you anyway.",1,7/7/23,0.337,0.663,0,-0.7274,0.921337545,0.071564928,0.007097566,-0.914240003,-1,-1,13
+Google Play,Not good...very limited ui,1,7/7/23,0,0.643,0.357,0.1695,0.952374399,0.04314734,0.00447822,-0.947896183,-1,-1,1
+Google Play,Unyama sanaa hiii mmewafunga magoli mengi sanaa TWITTER,5,7/8/23,0,1,0,0,0.148977011,0.805029809,0.045993179,-0.102983832,0,,
+App Store,"Would love to see a dark mode option for just threads as well as a way to view our likes, and lastly a for you page and a following page would be sweet!",4,7/8/23,0,0.669,0.331,0.908,0.002228038,0.058468267,0.939303756,0.937075734,1,1,5
+Google Play,Ove this app.,5,7/6/23,0,1,0,0,0.20030123,0.627670765,0.17202808,-0.02827315,0,1,0
+Google Play,First time,5,7/9/23,0,1,0,0,0.122887611,0.68699187,0.190120518,0.067232907,0,0,0
+Google Play,Best thing about this app is staying close with my friends and family,5,7/22/23,0,0.601,0.399,0.8074,0.001610009,0.013784681,0.984605312,0.982995331,1,1,10
+Google Play,Please contact opinion add masage,1,7/7/23,0,0.635,0.365,0.3182,0.060566634,0.895433009,0.044000421,-0.016566213,0,-1,5
+Google Play,"The timeline is chaotic. There should be a way for individuals to control/choose what they wanna see and who they wanna read. Also, there should be a way to turn off automatic media (video) play. Other than these, the app is going to be an amazing one.",3,7/6/23,0.062,0.817,0.121,0.4588,0.140513375,0.447755694,0.411731005,0.271217644,0,0,5
+Google Play,"The timeline is chaotic. There should be a way for individuals to control/choose what they wanna see and who they wanna read. Also, there should be a way to turn off automatic media (video) play. Other than these, the app is going to be an amazing one.",3,7/6/23,0.062,0.817,0.121,0.4588,0.140513375,0.447755694,0.411731005,0.271217644,0,0,9
+Google Play,Twitter copy,1,7/6/23,0,1,0,0,0.236991763,0.687992811,0.075015433,-0.161976337,0,-1,13
+Google Play,It’s need good amount of Update and also need to allow only following people post in feed and also need to add the HASHTAG It's THE MOST IMPORATANT THING :>,4,7/10/23,0,0.754,0.246,0.8327,0.078979641,0.391123027,0.529897332,0.450917691,0,0,5
+Google Play,It's awesome � and great ��,5,7/9/23,0,0.328,0.672,0.8481,0.001856498,0.013348553,0.984794915,0.982938409,1,1,0
+App Store,Don’t like the idea of one company owning all media and this is a bad design,1,7/16/23,0.184,0.684,0.132,-0.25,0.956284046,0.040614229,0.003101691,-0.95318234,-1,-1,0
+Google Play,❤️�,5,7/19/23,0,1,0,0,0.170584351,0.768609703,0.060805887,-0.109778464,0,,
+Google Play,Introduce Hashtags,4,7/11/23,0,1,0,0,0.117711768,0.769023478,0.113264799,-0.004446968,0,0,5
+Google Play,इंस्टाग्राम में जो यूजरनेम है इसमें अलग से यूजरनेम होने चाहिए,2,7/6/23,0,1,0,0,0.167345554,0.774503648,0.05815082,-0.109194733,0,,
+Google Play,Bad community guidelines,1,7/7/23,0.636,0.364,0,-0.5423,0.773682058,0.214663729,0.011654241,-0.7620278,-1,-1,7
+Google Play,Better experience �,5,7/7/23,0,0.408,0.592,0.4404,0.018720681,0.341849148,0.639430225,0.620709538,1,1,0
+Google Play,Mast aplication for Instragram,5,7/11/23,0,1,0,0,0.06945955,0.81670922,0.113831244,0.044371694,0,1,0
+Google Play,It probably would be a good app if it actually works. When I open it it glitches as soon as I scroll leaving all the posts I've scrolled past in the background. Even when I change tabs to look at my profile it remains. Uninstalling and reinstalling does nothing to solve the issue. Unusable app.,1,7/8/23,0.03,0.916,0.054,0.32,0.685032725,0.244901925,0.070065364,-0.614967346,-1,-1,2
+Google Play,Useful,4,7/11/23,0,0,1,0.4404,0.030461753,0.433792531,0.53574574,0.505284011,1,1,0
+Google Play,"Its ok, no way to save pictures.",3,7/6/23,0.19,0.345,0.466,0.4939,0.124742582,0.574776113,0.30048129,0.175738707,0,0,4
+Google Play,But the fact that the president,5,7/9/23,0,1,0,0,0.247622758,0.680296659,0.072080597,-0.175542161,0,0,6
+Google Play,✌️,5,7/6/23,0,1,0,0,0.160909563,0.778416693,0.060673814,-0.100235745,0,,
+Google Play,Useless app don't even bother wasting your space and wifi with this bs!!!!,1,7/7/23,0.153,0.548,0.299,0.3944,0.981818259,0.015390499,0.002791268,-0.979026973,-1,-1,0
+Google Play,Amazing app,5,7/6/23,0,0.208,0.792,0.5859,0.006296581,0.054532204,0.939171255,0.93287468,1,1,0
+Google Play,"Is like any ""Meta"" products, wasting ur time, making money from u. And yes I still prefer (Twitter) because it keeps me away from all the junk opinions. I'm not a follower �",1,7/7/23,0.075,0.78,0.145,0.3612,0.276314557,0.434195876,0.289489508,0.013174951,0,-1,3
+Google Play,Very best application for users.,4,7/6/23,0,0.471,0.529,0.6697,0.00684517,0.068446301,0.924708545,0.917863369,1,1,0
+Google Play,Nice,1,7/11/23,0,0,1,0.4215,0.066038214,0.354452848,0.57950896,0.513470769,1,1,0
+Google Play,Emporten app,5,7/6/23,0,1,0,0,0.115656458,0.707013845,0.177329689,0.061673231,0,1,0
+Google Play,�,5,7/8/23,0,1,0,0,0.158468187,0.785969317,0.055562492,-0.102905691,0,,
+Google Play,"Hiii, could you please add the See the translation, thankyou",5,7/6/23,0,0.796,0.204,0.3182,0.011251801,0.505137384,0.483610868,0.472359061,0,0,5
+Google Play,Good app,5,7/6/23,0,0.256,0.744,0.4404,0.007448298,0.064862818,0.927688837,0.920240521,1,1,0
+Google Play,I hope you add hashtages and organise the home page since it's full of people that I don't know(and it's quite messy).,3,7/6/23,0,0.868,0.132,0.4404,0.619503498,0.315503806,0.064992741,-0.554510772,-1,0,3
+Google Play,I hope you add hashtages and organise the home page since it's full of people that I don't know(and it's quite messy).,3,7/6/23,0,0.868,0.132,0.4404,0.619503498,0.315503806,0.064992741,-0.554510772,-1,0,5
+Google Play,לא עובד יש מלא גליצ'ים,1,7/11/23,0,1,0,0,0.153495565,0.79931289,0.047191583,-0.106303982,0,,
+Google Play,Stop copycat,1,7/7/23,0.688,0.312,0,-0.296,0.789289415,0.194339424,0.016371222,-0.772918165,-1,-1,13
+Google Play,Nice appe,5,7/13/23,0,0.263,0.737,0.4215,0.068189204,0.317970335,0.613840461,0.545651257,1,1,0
+Google Play,I haven't used it yet but I hope the app is good.,5,7/9/23,0,0.51,0.49,0.8271,0.011535497,0.083013833,0.905450642,0.893915117,1,1,0
+Google Play,"Clean, refreshing but confusing",4,7/9/23,0.379,0.323,0.298,-0.128,0.199572966,0.526857853,0.273569196,0.073996231,0,1,1
+Google Play,"Clean, refreshing but confusing",4,7/9/23,0.379,0.323,0.298,-0.128,0.199572966,0.526857853,0.273569196,0.073996231,0,1,7
+Google Play,Copy paste app,1,7/8/23,0,1,0,0,0.166105255,0.758579314,0.07531549,-0.090789765,0,-1,13
+Google Play,Bad,1,7/8/23,1,0,0,-0.5423,0.495851547,0.406208962,0.097939596,-0.397911966,0,-1,0
+Google Play,Not the greatest could be better. The fact so many accounts exposed how many fake bots they have and ai responses is sad. Fundamentally lazy app,1,7/8/23,0.373,0.547,0.079,-0.8668,0.919012368,0.072388619,0.008598992,-0.910413384,-1,1,3
+Google Play,Love this app!,5,7/6/23,0,0.308,0.692,0.6696,0.002068417,0.008136502,0.989795029,0.987726629,1,1,0
+Google Play,Excellent app easier than twitter,5,7/7/23,0,0.316,0.684,0.7579,0.044565529,0.192977607,0.762456834,0.717891335,1,1,1
+Google Play,Very cool,5,7/6/23,0,0.278,0.722,0.3804,0.002502233,0.031359516,0.966138184,0.963635921,1,1,0
+Google Play,Nice app,5,7/18/23,0,0.263,0.737,0.4215,0.012005509,0.084709935,0.903284609,0.891279101,1,1,0
+Google Play,This app was copied from Twitter,5,7/9/23,0,1,0,0,0.288253397,0.665963411,0.04578314,-0.242470264,0,-1,13
+Google Play,Not ok,1,7/15/23,0.654,0.346,0,-0.2235,0.915668547,0.077554174,0.006777285,-0.908891261,-1,-1,0
+Google Play,Theards � > tiwtter�,5,7/10/23,0,1,0,0,0.213482112,0.733091295,0.053426683,-0.160055429,0,1,0
+Google Play,Twitter �,1,7/13/23,0,1,0,0,0.224117666,0.725311518,0.05057079,-0.17354688,0,,
+Google Play,Sick. Twitter is dead.,5,7/7/23,0.792,0.208,0,-0.8225,0.961153984,0.033808935,0.005037066,-0.956116915,-1,1,0
+Google Play,I would like them to show only my followings in my feed or related to my interests rather than a total bunch of unknowns...,3,7/7/23,0,0.816,0.184,0.5423,0.141383767,0.74788481,0.11073146,-0.030652307,0,0,3
+Google Play,I would like them to show only my followings in my feed or related to my interests rather than a total bunch of unknowns...,3,7/7/23,0,0.816,0.184,0.5423,0.141383767,0.74788481,0.11073146,-0.030652307,0,0,5
+Google Play,First day,5,7/6/23,0,1,0,0,0.164881334,0.624972165,0.210146472,0.045265138,0,0,0
+Google Play,Very very most useful app,5,7/7/23,0,0.517,0.483,0.5768,0.002882591,0.02058496,0.976532459,0.973649859,1,1,0
+Google Play,It's good. You should have a way to stop videos auto playing especially when using mobile phone data.,4,7/7/23,0.105,0.67,0.225,0.3612,0.055967659,0.301280856,0.642751515,0.586783886,1,1,9
+App Store,"App has worked seamlessly, still has some growing to do but, for now, is a must have must use.",5,7/6/23 19:49,0,0.926,0.074,0.09,0.003861764,0.059914619,0.936223686,0.932361901,1,1,0
